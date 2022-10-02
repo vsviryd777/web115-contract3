@@ -4,6 +4,15 @@ header
     background-color: #79DAE8;
     font-family: 'Sacramento', cursive;
     color: #2B4865;
+    padding:20px;
+}
+p
+{
+  padding:10px;
+}
+body
+{
+  padding:20px;
 }
  .topmenu{
    background-color:#68A7AD;
