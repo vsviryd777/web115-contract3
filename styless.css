@@ -4,7 +4,7 @@ header
     background-color: #79DAE8;
     font-family: 'Sacramento', cursive;
     color: #2B4865;
-    padding:20px;
+    padding:5px;
 }
 p
 {
@@ -36,7 +36,7 @@ list-style: none;
 
 body
 {
-  /* you better change this stuff */
+
   margin: #40514E ;
   font-family: 'Merriweather', serif;
   color:black ;
@@ -50,7 +50,7 @@ footer
 {
   background-color: #79DAE8;
   text-align: center;
-  padding: 4px;  
+  padding: 5px;  
 }
 
 
